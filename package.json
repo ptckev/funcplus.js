@@ -1,0 +1,26 @@
+{
+  "name": "funcplus.js",
+  "version": "1.0.1",
+  "description": "A pre-defined function library for an easy and quick coding experience.",
+  "main": "funcplus.js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptckev/funcplus.js.git"
+  },
+  "keywords": [
+    "function",
+    "tools",
+    "library",
+    "javascript"
+  ],
+  "author": "ptckev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ptckev/funcplus.js/issues"
+  },
+  "homepage": "https://github.com/ptckev/funcplus.js#readme",
+  "dependencies": {}
+}
