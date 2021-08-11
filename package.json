@@ -1,6 +1,6 @@
 {
   "name": "funcplus.js",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A pre-defined function library for an easy and quick coding experience.",
   "main": "funcplus.js/index.js",
   "scripts": {
