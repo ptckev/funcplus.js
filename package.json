@@ -1,6 +1,6 @@
 {
   "name": "funcplus.js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A pre-defined function library for an easy and quick coding experience.",
   "main": "funcplus.js/index.js",
   "scripts": {
@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/ptckev/funcplus.js/issues"
   },
-  "homepage": "https://github.com/ptckev/funcplus.js#readme",
+  "homepage": "https://github.com/ptckev/funcplus.js/blob/main/README.md",
   "dependencies": {}
   
 }
