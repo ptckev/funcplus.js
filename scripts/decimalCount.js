@@ -10,6 +10,6 @@ function decimalCount(value) {
     value1.splice(0, index+1)
     
     return value1.length
-}//"203946.02389465"
+}
 
 module.exports = decimalCount

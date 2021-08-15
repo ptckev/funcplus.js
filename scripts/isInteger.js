@@ -1,17 +1,15 @@
- function isInteger(n) {
+const decimalCount = require("funcplus.js/scripts/decimalCount")
+function isInteger(n) {
 
-    if (isNaN(n)) {
-        return console.error(Error("Input must be a number."))
-    }
+   if (isNaN(n) || !typeof n === "number" && !typeof n === "string") return console.error(Error("The input value must be a number."));
 
-    var result = (n - Math.floor(n)) !== 0; 
-    
 
-    if (result) {
-        return false
-    } else {
-        return true
-    }
+   if (decimalCount(n) > 0) return false
+   else return true    
+
+   
+
+
 
 }
 
